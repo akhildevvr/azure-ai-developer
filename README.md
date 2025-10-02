@@ -136,21 +136,8 @@ This workshop is ideal for:
 - [Azure AI Search Documentation](https://learn.microsoft.com/azure/search/)
 - [OpenAI Best Practices](https://platform.openai.com/docs/guides/prompt-engineering)
 
-## 🤝 Contributors
 
-This workshop was created and maintained by:
 
-- [Munish Malhotra](https://github.com/munishm)
-- [Brijraj Singh](https://github.com/brijrajsingh)
-- [Linda M Thomas](https://github.com/lindamthomas)
-- [Suman More](https://github.com/sumanmore257)
-- [Chris McKee](https://github.com/ChrisMcKee1)
-- [Julian Heidt](https://github.com/julian-heidt)
-- [William Griffin](https://github.com/WillGKizan)
-
-## 📄 License
-
-This project is provided for educational purposes. Please refer to the individual component licenses for Azure services and third-party tools used in this workshop.
 
 ## 🌟 Acknowledgments
 
